@@ -1,6 +1,6 @@
 # Batatabit, una página mobile first.
 
-[Esta página](https://versallesz.github.io/mobileFirstweb/ "Esta página") es el resultado de un curso de maquetación mobile first, que como su nombre lo indica, los estilos fueron diseñados pensando en dispositivos móviles, siendo luego adaptados para pantallas más grandes.
+[Esta página](https://versallesz.github.io/batatabitweb/ "Esta página") es el resultado de un curso de maquetación mobile first, que como su nombre lo indica, los estilos fueron diseñados pensando en dispositivos móviles, siendo luego adaptados para pantallas más grandes.
 
 ###### Estilos
 Los estilos se encuentran en la carpeta css donde existen 2 archivos:
